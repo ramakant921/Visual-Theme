@@ -16,7 +16,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 **Enjoy!**
 
 
-## Use can use.
+## You can use.
 
 * git clone https://github.com/ramakant921/Visual-Theme
 * cd Visual-Theme
